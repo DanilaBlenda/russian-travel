@@ -10,9 +10,5 @@
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/container/container.css);
 @import url(../blocks/footer/footer.css);
-
-.page {
-  background: #2A2C2F;
-  color: #FFFFFF;
-  font-family: 'Inter', Arial, sans-serif;
-}
+@import url(../blocks/page/page.css);
+@import url(../blocks/navigation/navigation.css);

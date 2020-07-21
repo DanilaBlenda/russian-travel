@@ -350,3 +350,6 @@ template {
   display: none;
 }
 
+p {
+  margin: 0;
+}

@@ -1,4 +1,4 @@
-.footer__link {
+.navigation__link {
   font-size: 16px;
   line-height: 18px;
   color: #FFFFFF;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 425px) {
-  .footer__link {
+  .navigation__link {
     font-size: 24px;
     line-height: 24px;
     display: block;
@@ -14,6 +14,6 @@
   }
 }
 
-.footer__link:hover {
+.navigation__link:hover {
   opacity: 0.8;
 }
