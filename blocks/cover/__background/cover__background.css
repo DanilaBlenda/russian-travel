@@ -9,6 +9,7 @@
   position: relative;
   z-index: 1;
   background-position: center;
+  text-decoration: none;
 }
 
 .cover__background::before {
@@ -34,13 +35,13 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 984px) {
   .cover__background {
     min-height: 480px;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 640px) {
   .cover__background {
     min-height: 200px;
   }
